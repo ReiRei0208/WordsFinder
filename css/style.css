@@ -43,10 +43,10 @@ ul {
 ul:before {
   content:'WordsFinder';
   position:absolute;
-  left:-3.5em;
+  left:-3.8em;
   font-size:2em;
   text-align:right;
-  top:1.9em;
+  top:2.8em;
   color:#ededed;
   font-weight:bold;
   font-family: 'Microsoft YaHei','Lantinghei SC','Open Sans',Arial,'Hiragino Sans GB','STHeiti','WenQuanYi Micro Hei','SimSun',sans-serif;
