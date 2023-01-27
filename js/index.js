@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   var jobCount = $('#list .in').length;
-  $('.list-count').text('共 ' + jobCount + ' 个词汇');
+  $('.list-count').text('共 ' + jobCount + ' 个词');
     
   
   $("#search-text").keyup(function () {
@@ -39,7 +39,7 @@ $(document).ready(function() {
     
   
       var jobCount = $('#list .in').length;
-    $('.list-count').text('共 ' + jobCount + ' 个词汇');
+    $('.list-count').text('共 ' + jobCount + ' 个词');
     
     //shows empty state text when no jobs found
     if(jobCount == '0') {
