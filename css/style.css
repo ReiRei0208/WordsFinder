@@ -41,7 +41,7 @@ ul {
 }
 
 ul:before {
-  content:'LangLight';
+  content:'WordsFinder';
   position:absolute;
   left:-3.5em;
   font-size:2em;
